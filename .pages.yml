@@ -1,0 +1,76 @@
+media:
+  input: img/uploads
+  output: /img/uploads
+  rename: safe
+  extensions: [jpg, jpeg, png, webp, gif]
+
+content:
+  - name: cases
+    label: Trabalhos
+    type: file
+    path: content/cases.json
+    format: json
+    list: true
+    fields:
+      - name: title
+        label: Título do case
+        type: string
+        required: true
+      - name: poster_title
+        label: Título curto no pôster (opcional, ex. "Atacama")
+        type: string
+      - name: client
+        label: Cliente
+        type: string
+      - name: kind
+        label: Tipo de entrega (ex. Campanha, Exposição)
+        type: string
+      - name: context
+        label: Contexto (ex. Redhook School)
+        type: string
+      - name: note
+        label: Nota escrita à mão
+        type: string
+      - name: note_white
+        label: Nota em branco (em vez de vermelho)
+        type: boolean
+      - name: text
+        label: Texto do case (pule uma linha entre os parágrafos)
+        type: text
+      - name: credits
+        label: Créditos
+        type: string
+      - name: images
+        label: Imagens (a primeira é a capa; arraste para reordenar)
+        type: image
+        options:
+          multiple:
+            max: 80
+
+  - name: site
+    label: Textos do site
+    type: file
+    path: content/site.json
+    format: json
+    fields:
+      - name: hero_phrase
+        label: Frase da abertura (uma linha por linha)
+        type: text
+      - name: about_title
+        label: Título do Sobre (palavra entre *asteriscos* fica vermelha)
+        type: string
+      - name: about_hand
+        label: Nota à mão do Sobre
+        type: string
+      - name: about_text
+        label: Texto do Sobre (pule uma linha entre os parágrafos)
+        type: text
+      - name: brands
+        label: Linha de marcas
+        type: text
+      - name: linkedin
+        label: Link do LinkedIn
+        type: string
+      - name: instagram
+        label: Link do Instagram
+        type: string
