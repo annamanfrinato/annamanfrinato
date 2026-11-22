@@ -59,6 +59,36 @@
     ]
   },
   {
+    "title": "Howdy!",
+    "client": "Howdy",
+    "kind": "Identidade visual",
+    "context": "Projeto autoral",
+    "note": "wild looks good on you",
+    "note_white": true,
+    "text": "Howdy é uma marca de chapéus western femininos que nasce do encontro entre a estética country e a atitude da mulher contemporânea.\n\nO projeto de identidade visual explora o universo do Velho Oeste sob uma perspectiva mais feminina, divertida e ousada. Com tipografia expressiva, ilustrações autorais, cores vibrantes e referências vintage, a proposta mistura o rústico com o fashion, trazendo uma nova interpretação da cultura western.\n\nMais do que vender chapéus, Howdy celebra mulheres que vivem do seu próprio jeito, com autenticidade e um espírito naturalmente wild.",
+    "credits": "Projeto autoral",
+    "images": [
+      "/img/uploads/howdy-01.webp",
+      "/img/uploads/howdy-02.gif",
+      "/img/uploads/howdy-03.webp",
+      "/img/uploads/howdy-04.webp",
+      "/img/uploads/howdy-05.webp",
+      "/img/uploads/howdy-06.webp",
+      "/img/uploads/howdy-07.webp",
+      "/img/uploads/howdy-08.webp",
+      "/img/uploads/howdy-09.webp",
+      "/img/uploads/howdy-10.webp",
+      "/img/uploads/howdy-11.webp",
+      "/img/uploads/howdy-12.webp",
+      "/img/uploads/howdy-13.webp",
+      "/img/uploads/howdy-14.webp",
+      "/img/uploads/howdy-15.webp",
+      "/img/uploads/howdy-16.webp",
+      "/img/uploads/howdy-17.webp",
+      "/img/uploads/howdy-18.webp"
+    ]
+  },
+  {
     "title": "Intensos",
     "client": "Spotify",
     "kind": "Campanha",
@@ -104,36 +134,6 @@
       "/img/uploads/you-used-to-draw-11.webp",
       "/img/uploads/you-used-to-draw-12.webp",
       "/img/uploads/you-used-to-draw-13.webp"
-    ]
-  },
-  {
-    "title": "Howdy!",
-    "client": "Howdy",
-    "kind": "Identidade visual",
-    "context": "Projeto autoral",
-    "note": "wild looks good on you",
-    "note_white": true,
-    "text": "Howdy é uma marca de chapéus western femininos que nasce do encontro entre a estética country e a atitude da mulher contemporânea.\n\nO projeto de identidade visual explora o universo do Velho Oeste sob uma perspectiva mais feminina, divertida e ousada. Com tipografia expressiva, ilustrações autorais, cores vibrantes e referências vintage, a proposta mistura o rústico com o fashion, trazendo uma nova interpretação da cultura western.\n\nMais do que vender chapéus, Howdy celebra mulheres que vivem do seu próprio jeito, com autenticidade e um espírito naturalmente wild.",
-    "credits": "Projeto autoral",
-    "images": [
-      "/img/uploads/howdy-01.webp",
-      "/img/uploads/howdy-02.gif",
-      "/img/uploads/howdy-03.webp",
-      "/img/uploads/howdy-04.webp",
-      "/img/uploads/howdy-05.webp",
-      "/img/uploads/howdy-06.webp",
-      "/img/uploads/howdy-07.webp",
-      "/img/uploads/howdy-08.webp",
-      "/img/uploads/howdy-09.webp",
-      "/img/uploads/howdy-10.webp",
-      "/img/uploads/howdy-11.webp",
-      "/img/uploads/howdy-12.webp",
-      "/img/uploads/howdy-13.webp",
-      "/img/uploads/howdy-14.webp",
-      "/img/uploads/howdy-15.webp",
-      "/img/uploads/howdy-16.webp",
-      "/img/uploads/howdy-17.webp",
-      "/img/uploads/howdy-18.webp"
     ]
   }
 ]
