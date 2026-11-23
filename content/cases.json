@@ -1,30 +1,5 @@
 [
   {
-    "title": "Dog Match",
-    "client": "Pedigree",
-    "kind": "Game, ativação",
-    "context": "Redhook School",
-    "note": "com cães reais de abrigo!",
-    "note_white": false,
-    "text": "A Geração Z lidera a adoção de pets no Brasil, e 95% considera adotar um cachorro no futuro. Mas muitos cães ainda esperam por um lar.\nPara aproximar esses dois mundos, criamos o Dog Match, um universo dentro do Fortnite onde cães reais de abrigos se tornam parceiros de missão. Ao longo do jogo, o jogador cria um vínculo com seu companheiro e, no final, descobre que pode conhecê-lo e adotá-lo na vida real.\nUma conexão que começa no jogo e continua na vida real.",
-    "credits": "Anna Manfrinato, direção de arte · Ana Paula, redação",
-    "images": [
-      "/img/uploads/dog-match-01.webp",
-      "/img/uploads/dog-match.gif",
-      "/img/uploads/anuncio-pedigree-sob-luzes-frias.png",
-      "/img/uploads/dog-match-04.webp",
-      "/img/uploads/campanha-dog-match-no-metro.png",
-      "/img/uploads/dog-match-07.webp",
-      "/img/uploads/dog-match-18.webp",
-      "/img/uploads/dog-match-14.webp",
-      "/img/uploads/dog-match-11.webp",
-      "/img/uploads/dog-match-05.webp",
-      "/img/uploads/dog-match-12.webp",
-      "/img/uploads/dog-match-13.webp",
-      "/img/uploads/dog-match-15.webp"
-    ]
-  },
-  {
     "title": "Atacama Unearthed",
     "poster_title": "Atacama",
     "client": "Atacama Fashion Week",
@@ -51,6 +26,31 @@
       "/img/uploads/atacama-unearthed-14.webp",
       "/img/uploads/atacama-unearthed-15.webp",
       "/img/uploads/atacama-unearthed-16.webp"
+    ]
+  },
+  {
+    "title": "Dog Match",
+    "client": "Pedigree",
+    "kind": "Game, ativação",
+    "context": "Redhook School",
+    "note": "com cães reais de abrigo!",
+    "note_white": false,
+    "text": "A Geração Z lidera a adoção de pets no Brasil, e 95% considera adotar um cachorro no futuro. Mas muitos cães ainda esperam por um lar.\nPara aproximar esses dois mundos, criamos o Dog Match, um universo dentro do Fortnite onde cães reais de abrigos se tornam parceiros de missão. Ao longo do jogo, o jogador cria um vínculo com seu companheiro e, no final, descobre que pode conhecê-lo e adotá-lo na vida real.\nUma conexão que começa no jogo e continua na vida real.",
+    "credits": "Anna Manfrinato, direção de arte · Ana Paula, redação",
+    "images": [
+      "/img/uploads/dog-match-01.webp",
+      "/img/uploads/dog-match.gif",
+      "/img/uploads/anuncio-pedigree-sob-luzes-frias.png",
+      "/img/uploads/dog-match-04.webp",
+      "/img/uploads/campanha-dog-match-no-metro.png",
+      "/img/uploads/dog-match-07.webp",
+      "/img/uploads/dog-match-18.webp",
+      "/img/uploads/dog-match-14.webp",
+      "/img/uploads/dog-match-11.webp",
+      "/img/uploads/dog-match-05.webp",
+      "/img/uploads/dog-match-12.webp",
+      "/img/uploads/dog-match-13.webp",
+      "/img/uploads/dog-match-15.webp"
     ]
   },
   {
