@@ -84,28 +84,6 @@
     ]
   },
   {
-    "title": "Intensos",
-    "client": "Spotify",
-    "kind": "Campanha",
-    "context": "Redhook School",
-    "note": "toda época tem seus intensos",
-    "note_white": false,
-    "text": "Intensos é uma campanha do Spotify sobre quem sempre sentiu tudo um pouco mais.\n\nAntes, essa intensidade vivia nos poemas, nas cartas, nos grandes gestos românticos e no ultrarromantismo. Hoje, também está na música: na faixa ouvida no repeat, na letra decorada e nas playlists que acompanham amores, términos e fases da vida.\n\nA campanha conecta diferentes épocas para mostrar que, mesmo com o mundo em constante transformação, a vontade de sentir profundamente continua a mesma.\n\nPorque os tempos mudam, mas sempre existiu quem sentisse tudo um pouco mais. Toda época tem seus intensos.",
-    "credits": "Spotify × Redhook School",
-    "images": [
-      "/img/uploads/intensos-01.webp",
-      "/img/uploads/intensos-02.webp",
-      "/img/uploads/intensos-03.webp",
-      "/img/uploads/intensos-04.webp",
-      "/img/uploads/intensos-05.webp",
-      "/img/uploads/intensos-06.webp",
-      "/img/uploads/intensos-07.webp",
-      "/img/uploads/intensos-08.webp",
-      "/img/uploads/intensos-09.webp",
-      "/img/uploads/intensos-10.webp"
-    ]
-  },
-  {
     "title": "You Used to Draw",
     "poster_title": "Draw",
     "client": "Faber-Castell",
@@ -129,6 +107,28 @@
       "/img/uploads/you-used-to-draw-11.webp",
       "/img/uploads/you-used-to-draw-12.webp",
       "/img/uploads/you-used-to-draw-13.webp"
+    ]
+  },
+  {
+    "title": "Intensos",
+    "client": "Spotify",
+    "kind": "Campanha",
+    "context": "Redhook School",
+    "note": "toda época tem seus intensos",
+    "note_white": false,
+    "text": "Intensos é uma campanha do Spotify sobre quem sempre sentiu tudo um pouco mais.\n\nAntes, essa intensidade vivia nos poemas, nas cartas, nos grandes gestos românticos e no ultrarromantismo. Hoje, também está na música: na faixa ouvida no repeat, na letra decorada e nas playlists que acompanham amores, términos e fases da vida.\n\nA campanha conecta diferentes épocas para mostrar que, mesmo com o mundo em constante transformação, a vontade de sentir profundamente continua a mesma.\n\nPorque os tempos mudam, mas sempre existiu quem sentisse tudo um pouco mais. Toda época tem seus intensos.",
+    "credits": "Spotify × Redhook School",
+    "images": [
+      "/img/uploads/intensos-01.webp",
+      "/img/uploads/intensos-02.webp",
+      "/img/uploads/intensos-03.webp",
+      "/img/uploads/intensos-04.webp",
+      "/img/uploads/intensos-05.webp",
+      "/img/uploads/intensos-06.webp",
+      "/img/uploads/intensos-07.webp",
+      "/img/uploads/intensos-08.webp",
+      "/img/uploads/intensos-09.webp",
+      "/img/uploads/intensos-10.webp"
     ]
   }
 ]
